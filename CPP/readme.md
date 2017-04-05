@@ -1,1 +1,0 @@
-#OpenCVV C++
