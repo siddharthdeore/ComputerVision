@@ -35,6 +35,8 @@ term_crit = ( cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT, 20, 10 )
 roiBox = None
 
 
+print "Enter character i and select 4 points near object to track"
+
 # Main loop
 while(1):
     ret ,frame = cap.read()
