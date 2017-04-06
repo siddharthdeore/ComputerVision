@@ -1,3 +1,4 @@
+''' Improved face detection '''
 import cv2
 import sys
 import logging as log
